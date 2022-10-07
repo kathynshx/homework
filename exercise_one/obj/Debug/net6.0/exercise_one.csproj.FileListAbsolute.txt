@@ -1,0 +1,15 @@
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/bin/Debug/net6.0/exercise_one
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/bin/Debug/net6.0/exercise_one.deps.json
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/bin/Debug/net6.0/exercise_one.runtimeconfig.json
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/bin/Debug/net6.0/exercise_one.dll
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/bin/Debug/net6.0/exercise_one.pdb
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.csproj.AssemblyReference.cache
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.AssemblyInfoInputs.cache
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.AssemblyInfo.cs
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.csproj.CoreCompileInputs.cache
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.dll
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/refint/exercise_one.dll
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.pdb
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/exercise_one.genruntimeconfig.cache
+/Users/ekaterinashvalyuk/Desktop/exerciceshome/exercise_one/obj/Debug/net6.0/ref/exercise_one.dll
